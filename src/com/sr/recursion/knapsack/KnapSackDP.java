@@ -1,3 +1,4 @@
+package com.sr.recursion.knapsack;
 import java.util.Arrays;
 
 public class KnapSackDP

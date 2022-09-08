@@ -1,3 +1,5 @@
+package com.sr.recursion.knapsack;
+
 public class KnapSackRecursive
 {
     static int i= 0;
